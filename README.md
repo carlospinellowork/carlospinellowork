@@ -1,8 +1,8 @@
 <!-- Banner ou título -->
 <h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
-<h3 align="center">🚀 Desenvolvedor Frontend | React & Next.js</h3>
+<h3>🚀 Desenvolvedor Frontend | React & Next.js</h3>
 
-<p align="center">
+<p>
   Sou um desenvolvedor apaixonado por criar interfaces modernas e performáticas, com foco em <b>React</b>, <b>Next.js</b> e boas práticas de código.  
   Sempre buscando aprender novas tecnologias e contribuir para projetos que impactam positivamente os usuários.
 </p>
