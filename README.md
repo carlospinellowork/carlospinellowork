@@ -15,10 +15,8 @@
 - 💡 Experiência em **React, Next.js, Tailwind, Styled-components, Node.js** e integração de APIs REST  
 - 📈 Tenho interesse em projetos SaaS, e-commerce e produtos digitais escaláveis  
 - 🎯 Gosto de resolver problemas complexos e otimizar performance de aplicações  
-- 📚 Sempre estudando **Node.js, Prisma e boas práticas de arquitetura backend**
-- 💻 Ativo em **mais de 600 commits privados no GitLab corporativo*
+- 💻 Ativo em **mais de 700 commits privados no GitLab corporativo*
 - 🚀 Foco em interfaces performáticas, padronização de código e melhoria contínua de UX
-
 
 ---
 
@@ -46,25 +44,6 @@
 - 🏆 [**ClubHouse FC – MVP**](https://github.com/cadupinello/club-house)  
   Plataforma social para sócios do ClubHouse FC com **Next.js, React, Prisma, Zod e React Query**.  
   🔹 Autenticação, cadastro e listagem de sócios, UI responsiva e cache otimizado.
-  
----
-
-## 📊 Estatísticas
-
-> 💬 **Nota:** A maior parte da minha atividade de commits está em repositórios privados no **GitLab corporativo (~600+ commits)**, então as estatísticas abaixo não refletem todo meu histórico real de contribuições.
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=carlospinellowork&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospinellowork&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
----
 
 ## 🌐 Onde me encontrar
 
