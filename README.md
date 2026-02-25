@@ -15,7 +15,7 @@
 - 💡 Experiência em **React, Next.js, Tailwind, Styled-components, Node.js** e integração de APIs REST  
 - 📈 Tenho interesse em projetos SaaS, e-commerce e produtos digitais escaláveis  
 - 🎯 Gosto de resolver problemas complexos e otimizar performance de aplicações  
-- 💻 Ativo em **mais de 700 commits privados no GitLab corporativo*
+- 💻 Ativo em **mais de 600 commits privados no GitLab corporativo*
 - 🚀 Foco em interfaces performáticas, padronização de código e melhoria contínua de UX
 
 ---
