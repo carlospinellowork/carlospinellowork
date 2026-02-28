@@ -21,7 +21,7 @@ Git, CI/CD
 
 ## 🤖 Ferramentas
 
-GPT, Antigravity — utilizo ferramentas de IA como apoio na escrita e melhoria de testes, análise de código e documentação.
+GPT, Antigravity, utilizo ferramentas de IA como apoio na escrita e melhoria de testes, análise de código e documentação.
 
 ---
 
