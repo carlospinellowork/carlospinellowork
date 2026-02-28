@@ -1,64 +1,38 @@
-<!-- Banner ou título -->
-<h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
-<h3>🚀 Desenvolvedor Frontend | React & Next.js</h3>
+<h1 align="center">Carlos Eduardo</h1>
+<h3 align="center">Software engineer</h3>
 
-<p>
-  Sou um desenvolvedor apaixonado por criar interfaces modernas e performáticas, com foco em <b>React</b>, <b>Next.js</b> e boas práticas de código.  
-  Sempre buscando aprender novas tecnologias e contribuir para projetos que impactam positivamente os usuários.
-</p>
+Desenvolvedor com mais de 3 anos construindo aplicações web.
+Atuo como software engineer, com maior foco em frontend, mas também estruturando APIs e backend com Node.js.
 
----
-
-## 🧑‍💻 Sobre mim
-
-- 🔭 Atualmente **Desenvolvedor Frontend (Júnior/Pleno) na Digitalk CXM**  
-- 💡 Experiência em **React, Next.js, Tailwind, Styled-components, Node.js** e integração de APIs REST  
-- 📈 Tenho interesse em projetos SaaS, e-commerce e produtos digitais escaláveis  
-- 🎯 Gosto de resolver problemas complexos e otimizar performance de aplicações  
-- 💻 Ativo em **mais de 600 commits privados no GitLab corporativo*
-- 🚀 Foco em interfaces performáticas, padronização de código e melhoria contínua de UX
+Gosto de organizar arquitetura, melhorar performance e refatorar sistemas quando necessário.
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
+## Stack
 
-<p align="left">
-  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Next.js" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Tailwind" title="Tailwind" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="Styled-components" title="Styled-components" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"/>
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="Prisma" title="Prisma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>
-  <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-</p>
+React.js, Next.js, TypeScript, React Query, Redux  
+Node.js, Express, Prisma, PostgreSQL  
+WebSockets, REST APIs  
+Tailwind CSS, Styled-components  
+Git, CI/CD
 
 ---
 
-## 🚀 Projetos em Destaque
+## Ferramentas
 
-- 🏆 [**ClubHouse FC – MVP**](https://github.com/cadupinello/club-house)  
-  Plataforma social para sócios do ClubHouse FC com **Next.js, React, Prisma, Zod e React Query**.  
-  🔹 Autenticação, cadastro e listagem de sócios, UI responsiva e cache otimizado.
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-9ba041156">
-    <img alt="LinkedIn" title="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  <a href="https://portfoliocadu.vercel.app/">
-    <img alt="Portfólio" title="Portfólio" width="40" src="https://cdn-icons-png.flaticon.com/512/841/841364.png"/>
-  </a>
-  <a href="mailto:carlospinello4030@gmail.com">
-    <img alt="Email" title="Email" width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
-  </a>
-</p>
+GPT, Antigravity, utilizo ferramentas de IA para apoiar a escrita e melhoria de testes, análise de código e documentação.
 
 ---
 
-✨ _“Sempre aprendendo, sempre construindo. Buscando evoluir um pouco a cada commit!”_
+## Experiência prática
+
+- Modernização de sistema legado (Redux → React Query)
+- Aplicações em tempo real com WebSockets
+- CRM Builder e automações com React Flow
+- Kanban com drag-and-drop
+- Sistema de tickets
+- White-label e i18n
+
+---
+
+Curto organizar código, melhorar arquitetura e deixar as coisas mais simples do que encontrei.
