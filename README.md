@@ -1,30 +1,31 @@
-<h1 align="center">Carlos Eduardo</h1>
-<h3 align="center">Software engineer</h3>
+# Carlos Eduardo
 
-Desenvolvedor com mais de 3 anos construindo aplicações web.
+### 💻 Software Engineer
+
+Desenvolvedor com mais de 3 anos construindo aplicações web.  
 Atuo como software engineer, com maior foco em frontend, mas também estruturando APIs e backend com Node.js.
 
 Gosto de organizar arquitetura, melhorar performance e refatorar sistemas quando necessário.
 
 ---
 
-## Stack
+## 🧠 Stack
 
 React.js, Next.js, TypeScript, React Query, Redux  
 Node.js, Express, Prisma, PostgreSQL  
 WebSockets, REST APIs  
 Tailwind CSS, Styled-components  
-Git, CI/CD
+Git, CI/CD  
 
 ---
 
-## Ferramentas
+## 🤖 Ferramentas
 
-GPT, Antigravity, utilizo ferramentas de IA para apoiar a escrita e melhoria de testes, análise de código e documentação.
+GPT, Antigravity — utilizo ferramentas de IA como apoio na escrita e melhoria de testes, análise de código e documentação.
 
 ---
 
-## Experiência prática
+## ⚙️ Experiência prática
 
 - Modernização de sistema legado (Redux → React Query)
 - Aplicações em tempo real com WebSockets
